@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaU3672
+- 👋 Hi, I’m Aditya Uchil.
 - 👀 I’m interested in machine learning, software engineering and robotics.
 - 🌱 I’m currently learning reinforcement learning.
 - 💞️ I’m looking to collaborate on ...
